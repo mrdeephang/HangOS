@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "MyOS",
+            "includePath": [
+                "${workspaceFolder}/include",
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/i686-elf-g++",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "clang-x86"
+        }
+    ],
+    "version": 4
+}
